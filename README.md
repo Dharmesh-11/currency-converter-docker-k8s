@@ -210,3 +210,8 @@ aws ecr delete-repository --repository-name currency-converter --region ap-south
 - **Registry**: AWS ECR
 - **CLI Tools**: AWS CLI, eksctl, kubectl
 - **API**: [ExchangeRate API](https://www.exchangerate-api.com/)
+
+ 
+ # 👨‍💻 Author
+
+## Dharmesh Panpatil
